@@ -1,0 +1,15 @@
+Sistem Perpus
+1 Master Buku > Buku mempunyai Qty. sebagai contoh terdapat 2 buku MTK, 5 buku B indo dll.
+2. Master Murid > NIP, nama murid, dll
+3. Transaksi peminjaman :
+- validasi Qty buku tersedia/tidak
+-Min peminjaman 1 buku dan maksimal 5 buku
+- Status Transaksi: 
+  sudah kembali telat, sudah kembali tepat waktu, proses peminjaman
+- Buku yang dipinjam tidak boleh sama. sebagai contoh misal si A meminjam buku  MTK lalu meminjam lagi buku yang sama tidak diperbolehkan
+- Start date untuk tanggal mulai peminjaman dan End date untuk tanggal pengembalian. Lalu hari minggu disable
+- Button untuk pengembalian buku
+- Perhitungan denda jika pengembalian tidak sesuai tanggal/ telat : 
+1 - 3 hari = 1000/hari,
+4-7 hari:1000/hari +20%, 
+lebih dari 7 hari = 1000/hari + 25%
