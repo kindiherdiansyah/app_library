@@ -1,5 +1,5 @@
 # app_library
-Aplikasi Perpustakaan CI
+Aplikasi Perpustakaan CI framework
 
 ![login](https://user-images.githubusercontent.com/26849052/84415142-8786e000-ac3c-11ea-9815-daf1894eafbd.JPG)
 ![Dashboard](https://user-images.githubusercontent.com/26849052/84415147-8950a380-ac3c-11ea-9479-f0b765fa6dc4.JPG)
